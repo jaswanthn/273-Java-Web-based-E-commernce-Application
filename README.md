@@ -10,9 +10,9 @@
 * Ajax powered site _using jQuery as base for javascript_ search for both Administrator as well as Clients
 * Product image gallery for both the usecases admin/client
 * Quick dashboard views,
-* Dashboard consists of the monthly sales and reporting charts powered by google charts
-	* Some of the charts include 
+* Dashboard consists of the products and descriptions
+	* Product availability based on the dates stored in MongoDB
 	* Top most view products
-	* Top sold products
-	* The monthly sales revenue and purchases being made by the store
+	* Add to cart functionality
+	* User Login authentication and sessiona management 
 	
